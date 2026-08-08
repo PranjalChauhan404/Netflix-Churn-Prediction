@@ -46,8 +46,8 @@ Include a small table:
 
 | Model | Accuracy | ROC-AUC |
 |---|---:|---:|
-| Logistic Regression | 87.7% | ... |
-| Decision Tree | 97.1% | ... |
+| Logistic Regression | 87.7% | 0.96 |
+| Decision Tree | 97.1% | 0.97 |
 | Random Forest | 97.7% | 1.00 |
 | XGBoost | 99.5% | 1.00 |
 | Tuned XGBoost | 99.3% | 1.00 |
