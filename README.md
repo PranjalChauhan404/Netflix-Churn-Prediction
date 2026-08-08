@@ -50,6 +50,7 @@ Include a small table:
 | Decision Tree | 97.1% | 0.97 |
 | Random Forest | 97.7% | 1.00 |
 | XGBoost | 99.5% | 1.00 |
+| Gradient Boosting | 99.1% | 1.00 |
 | Tuned XGBoost | 99.3% | 1.00 |
 
 ## Final Model
